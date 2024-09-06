@@ -1,4 +1,2 @@
-# Angelina Volchek11111
+# Angelina Volchek
 ## 224403
-some info
-hello world
